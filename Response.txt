@@ -1,4 +1,0 @@
-Response Code And Response Message :200 OK
-Response Code And Response Message :200 OK
-Response Code And Response Message :200 OK
-Response Code And Response Message :200 OK
