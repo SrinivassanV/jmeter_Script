@@ -5,7 +5,7 @@ pipeline {
         stage('Hello') {
             steps {
              bat '''cd C:\\Users\\Administrator\\Downloads\\apache-jmeter-5.6.3\\apache-jmeter-5.6.3\\bin
-jmeter -n -t "HN47.jmx" -l C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Pipeline_down\\Pipeline_report.jtl'''
+jmeter -n -t "HN47.jmx" -l C:\\Users\\Administrator\\Documents\\Jenkins\\Pipeline_down\\Pipeline_report.jtl'''
             }
         }
     }
